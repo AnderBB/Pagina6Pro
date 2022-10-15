@@ -22,6 +22,6 @@
 .sticky-top-2 {
     position: -webkit-sticky;
     position: sticky;
-    top: 56px;
+    top: 50px;
     z-index: 1020;
   }
