@@ -1,0 +1,27 @@
+.carousel-inner{
+    max-height: 50rem;
+}
+
+.slide{
+    margin-top: 10px;
+}
+
+.slide img {
+    height: 50vh;
+}
+
+/*  ************* MEDIA QUERIES PANTALLA ***********************    */
+
+@media{
+    max-width: 768px;
+    #intro {
+        width: 90% !important;
+    }
+}
+
+.sticky-top-2 {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 56px;
+    z-index: 1020;
+  }
